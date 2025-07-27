@@ -1,2 +1,2 @@
 # Hospital-Management-system
-Goof Ball ahhh task
+This is a console based Hospital Management System written in C++ that helps manage doctors, patients, and appointments. It allows you to register and update doctors and patients, book and complete appointments, and view relevant reports like daily schedules and doctor availability. The system also saves and loads data using file handling so everything is retained between runs. It uses OOP principles and keeps the code modular with classes for Doctor, Patient, Appointment, and the main HospitalSystem. You interact with the system through a user-friendly menu-based interface.
